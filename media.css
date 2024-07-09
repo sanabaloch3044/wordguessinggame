@@ -1,0 +1,38 @@
+
+/* smalll screenn */
+
+
+@media (min-width:0px) and (max-width:330px ) {
+
+    .card{
+      
+        height: 35vh;
+    }
+
+    #heading{
+        font-size:large;
+    }
+
+#hint{
+    font-size: medium;
+}
+
+button{
+    margin-top: 10px;
+    font-size: medium;
+}
+
+#refresh{
+    font-size:12px;
+}
+
+}
+
+/* medium screeen */
+
+@media (min-width:330px) and (max-width:768px ) {
+
+    .card{
+        height: 40vh;
+    }
+}
